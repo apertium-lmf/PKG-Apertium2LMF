@@ -1,0 +1,10 @@
+Copying and Author information
+
+Resource name: Apertium Monolingual Lexicon to LMF converter
+Resource identifier: http://hdl.handle.net/10230/17128
+Licence: CC-BY-SA
+
+Authors:
+
+() Universitat Pompeu Fabra. Institut Universitari de Lingüística Aplicada (IULA)
+
